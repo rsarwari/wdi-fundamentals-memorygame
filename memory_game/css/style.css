@@ -1,0 +1,97 @@
+h1{
+	font-family: "Ralway", sans-serif;
+	
+	font-weight: 400;
+	font-size: 45px;
+	text-transform: uppercase;
+	margin: 0;
+}
+h2{
+	font-family: "Ralway", sans-serif;
+	margin: 0;
+	font-weight: 600;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+h3{
+	font-family: "Ralway", sans-serif;
+	color: #0D2C40;
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+p{
+	font-family: "Droid Serif", serif;
+	line-height: 26px;
+	font-size: 18px;
+}
+body{
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 1px;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	margin: 0 20px;
+	border-bottom: 2px solid transparent;
+}
+
+header{
+	background-color: #F15B31;
+	padding: 30px 20px;
+	color: #FFFFFF;
+	
+}
+
+nav{
+	background-color: #00A6B3;
+	padding: 20px 0;
+	color: #FFFFFF;
+}
+nav.a{
+	
+}
+a:hover{
+	border-color: white;
+}
+main{
+	text-align: center;
+	padding: 30px 50px;
+	width: 850px;
+	margin:35px auto;
+}
+img{
+	margin: 40px 8px 0 8px;
+}
+footer{
+	text-transform: uppercase;
+	padding: 20px;
+	background-color: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+.copyright{
+	font-family: "Ralway", sans-serif;
+	float: left;
+	
+}
+.message{
+	font-family: "Ralway", sans-serif;
+	float: right-;
+
+}
+.clearfix:after;{
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+.name{
+	color: #F15B31;
+	font-weight: 700;
+}
